@@ -1,0 +1,33 @@
+#title {
+
+    text-align: center;
+}
+h2  {
+    text-align: center;
+    }
+
+#image {
+    display: flex;
+    margin: auto;
+    text-align: center;
+    max-width: 200px; 
+    max-height: 200px; 
+    display: block;
+    object-fit: contain;
+}
+#img-caption {
+    text-align: center;
+}
+#tribute-info {
+text-align: center;
+}
+li {
+    text-align: center;
+    list-style: none;
+}
+#tribute-link{
+    text-decoration: none;
+}
+p {
+    text-align: center;
+}
